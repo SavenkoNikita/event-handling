@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "DOM movement game",
   "main": "index.js",
+  "homepage": "https://SavenkoNikita.github.io/event-handling",
   "scripts": {
     "dev": "webpack serve --mode development",
     "build": "webpack --mode production",
