@@ -44,7 +44,7 @@ jobs:
           name: production-files
           path: ./dist
 
-      - name: Deploy to GitHub Pages
+      - name: CI/CD
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
