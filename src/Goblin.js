@@ -28,7 +28,7 @@ export default class Goblin {
     this.currentCell = cell;
     
     const goblinImg = document.createElement('img');
-    goblinImg.src = require('./assets/goblin.png');
+    goblinImg.src = goblinImage;
     goblinImg.className = 'goblin-image';
     goblinImg.alt = 'Goblin';
     
