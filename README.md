@@ -1,1 +1,3 @@
-![CI](https://github.com/SavenkoNikita/dom_movement/actions/workflows/web.yml/badge.svg)
+[![Deploy to GitHub Pages](https://github.com/SavenkoNikita/event-handling/actions/workflows/web.yml/badge.svg)](https://github.com/SavenkoNikita/event-handling/actions/workflows/web.yml))
+
+[GitHub Pages](https://savenkonikita.github.io/event-handling/)
